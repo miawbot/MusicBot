@@ -3,8 +3,8 @@ TOKEN: "",
 ownerID: ["630264168670298132"], //write your discord user id. example: ["id"] or ["id1","id2"]
 botInvite: "", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
-mongodbURL: "mongodb+srv://xpresmusiktk:akrisimi.u7fimye.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
-status: '❤️ codeshare.me',
+mongodbURL: "mongodb+srv://akrisimi01:Yadi1109@akrisimi.smzmbmw.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
+status: '❤️ Miaww',
 commandsDir: './commands', //Please don't touch
 language: "id", //en, tr, nl, pt, fr, ar, zh_TW, it
 embedColor: "ffa954", //hex color code
@@ -12,7 +12,7 @@ errorLog: "", //write your discord error log channel id.
 
 
 sponsor: {
-status: true, //true or false
+status: false, //true or false
 url: "https://awmbilisim.com", //write your discord sponsor url.
 },
 
